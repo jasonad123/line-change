@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data files that should be generated locally every time
+data/gtfs/*/*
+data/demographics/*/*
+data/hex/*/*
+data/access/*/*
