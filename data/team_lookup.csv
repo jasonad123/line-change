@@ -1,0 +1,33 @@
+team_id,team_name,conference,division,country
+WSH,Washington Capitals,Eastern,Metropolitan,USA
+SEA,Seattle Kraken,Western,Pacific,USA
+COL,Colorado Avalanche,Western,Central,USA
+SJS,San Jose Sharks,Western,Pacific,USA
+DAL,Dallas Stars,Western,Central,USA
+VAN,Vancouver Canucks,Western,Pacific,Canada
+MTL,Montreal Canadiens,Eastern,Atlantic,Canada
+MIN,Minnesota Wild,Western,Central,USA
+NJD,New Jersey Devils,Eastern,Metropolitan,USA
+PHL,Philadelphia Flyers,Eastern,Metropolitan,USA
+NYR,New York Rangers,Eastern,Metropolitan,USA
+NYI,New York Islanders,Eastern,Metropolitan,USA
+TOR,Toronto Maple Leafs,Eastern,Atlantic,Canada
+CGY,Calgary Flames,Western,Pacific,Canada
+EDM,Edmonton Oilers,Western,Pacific,Canada
+OTT,Ottawa Senators,Eastern,Atlantic,Canada
+NSH,Nashville Predators,Western,Central,USA
+WPG,Winnipeg Jets,Western,Central,Canada
+CAR,Carolina Hurricanes,Eastern,Metropolitan,USA
+CBJ,Columbus Blue Jackets,Eastern,Metropolitan,USA
+BUF,Buffalo Sabres,Eastern,Atlantic,USA
+BOS,Boston Bruins,Eastern,Atlantic,USA
+ANA,Anaheim Ducks,Western,Pacific,USA
+TBL,Tampa Bay Lightning,Eastern,Atlantic,USA
+VGK,Vegas Golden Knights,Western,Pacific,USA
+FLA,Florida Panthers,Eastern,Atlantic,USA
+UTA,Utah Mammoth,Western,Central,USA
+STL,St Louis Blues,Western,Central,USA
+PIT,Pittsburgh Penguins,Eastern,Metropolitan,USA
+LAK,Los Angeles Kings,Western,Pacific,USA
+CHI,Chicago Blackhawks,Western,Central,USA
+DET,Detroit Red Wings,Eastern,Atlantic,USA
